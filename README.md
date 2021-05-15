@@ -1,5 +1,6 @@
 # i3-gaps_dracula_config
 My current configuration for i3-gaps. Nothing too fancy, I tried to makes it the easiest to reproduce for a further installation.
+Remember that I have [Gnome_40] installed, some configurations could work differently with your configuration !
 
 # Exemple results
 ![Screenshot_1](https://user-images.githubusercontent.com/40761875/118363213-9b953900-b593-11eb-9085-06f220b9946e.png)
