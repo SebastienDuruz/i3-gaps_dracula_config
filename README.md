@@ -20,7 +20,7 @@ Make sure you have theses packages installed :
 ## Config file
 * Clone git content
 ```
-git clone GIT ADRESS
+git clone https://github.com/Smour/i3-gaps_dracula_config.git
 cd i3-gaps_dracula_config
 ```
 * Make sure you have a copy of your actual config file before doing anything !
