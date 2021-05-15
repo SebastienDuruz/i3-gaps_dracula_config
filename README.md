@@ -3,7 +3,7 @@ My current configuration for i3-gaps.
 
 # Exemple results
 ![Screenshot_1](https://user-images.githubusercontent.com/40761875/118363213-9b953900-b593-11eb-9085-06f220b9946e.png)
-![Screenshot_2](https://user-images.githubusercontent.com/40761875/118363228-aea80900-b593-11eb-94c3-f322efe98dae.png)
+![Screenshot_2](https://user-images.githubusercontent.com/40761875/118364670-bd91ba00-b599-11eb-9f5c-4f37e6251680.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/40761875/118363441-abf9e380-b594-11eb-92b3-c5ab4e931f9a.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/40761875/118363621-83beb480-b595-11eb-8d01-bb2c989181bd.png)
 
