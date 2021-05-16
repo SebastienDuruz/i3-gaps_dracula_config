@@ -29,6 +29,10 @@ cd i3-gaps_dracula_config
 ```
 cp .config/i3/config ~/.config/i3/config
 ```
+* Restart I3
+```
+i3 restart
+```
 ## Wallpaper
 * Copy the file inside Wallpaper folder to the desired destination
 ```
