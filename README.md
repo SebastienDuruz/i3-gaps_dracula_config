@@ -40,3 +40,4 @@ cp Wallpaper/dracula.png DESIRED_DESTINATION
 * Visual Studio Code -> https://draculatheme.com/visual-studio-code
 * Gnome Terminal -> https://draculatheme.com/gnome-terminal
 * GTK / Icons -> https://draculatheme.com/gtk
+* Rofi -> https://draculatheme.com/rofi
